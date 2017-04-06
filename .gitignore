@@ -1,0 +1,16 @@
+*.jar
+linkedjdk
+*.class
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+classes
+
+.DS_Store
